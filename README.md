@@ -2,7 +2,7 @@
 
 My Name is Kapil ,and I'm a trained computer science student having proficiency in Full Stack!
 - 🔭 I’m currently working on Frontend And Backend Technologies...
-- 🌱 I’m recently build a Code Editor by using MERN Tools & Libraries...
+- 🌱 I’m recently build a Code Editor by using MERN Tools & Libraries...check out [here](https://kapilbisht-web.github.io/Code-Editor-Client/)
 - 👯 I’m looking to collaborate on Web Applications.
  - Send me ideas to kapilbisht@006.com
 
